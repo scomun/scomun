@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Don't mind me. Just trying to learn some Git.
 <!--
 **scomun/scomun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
